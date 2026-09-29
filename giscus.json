@@ -1,0 +1,5 @@
+{
+  "origins": ["https://fyko.net", "https://carterhimmel.com", "http://localhost:12345"],
+  "originsRegex": ["https://[a-z0-9-]+-personal-site\\.fyko\\.workers\\.dev"],
+  "defaultCommentOrder": "oldest"
+}
